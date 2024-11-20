@@ -42921,13 +42921,13 @@
           ],
           "list": [
             {
-              "minzoom": 13,
+              "minzoom": 8,
               "maxzoom": 16,
               "type": "layer",
               "source-layer": "label",
               "list": [
                 {
-                  "minzoom": 13,
+                  "minzoom": 8,
                   "maxzoom": 16,
                   "type": "symbol",
                   "source-layer": "label",
