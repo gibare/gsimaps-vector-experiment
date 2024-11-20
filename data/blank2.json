@@ -42921,13 +42921,13 @@
           ],
           "list": [
             {
-              "minzoom": 8,
+              "minzoom": 13,
               "maxzoom": 16,
               "type": "layer",
               "source-layer": "label",
               "list": [
                 {
-                  "minzoom": 8,
+                  "minzoom": 13,
                   "maxzoom": 16,
                   "type": "symbol",
                   "source-layer": "label",
@@ -42943,14 +42943,6 @@
                     "text-halo-width": 1,
                     "text-size": {
                       "stops": [
-                        [
-                          8,
-                          20
-                        ],
-                        [
-                          13,
-                          20
-                        ],
                         [
                           14,
                           15
