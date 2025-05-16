@@ -703,7 +703,7 @@ GSIBV.CONFIG.PAPERSIZE = {
   "A1_landscape": { w: 3000, h: 2000, large:true },  //A1横
 
   "A0_portrait": { w: 3000, h: 4270, large:true },  //A0縦
-  "A0_landscape": { w: 5420, h: 4150, large:true }  //A0横
+  "A0_landscape": { w: 4320, h: 2950, large:true }  //A0横
 };
 
 GSIBV.CONFIG.HANREILIST = {
