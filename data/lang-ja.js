@@ -2,8 +2,8 @@ if ( !GSIBV.CONFIG.LANG ) GSIBV.CONFIG.LANG = {};
 GSIBV.CONFIG.LANG.JA ={};
 
 GSIBV.CONFIG.LANG.JA.TITLE ={
-  "title" : "タイトル",
-  "subtitle" : "（サンプル）"
+  "title" : "",
+  "subtitle" : ""
 };
 
 
